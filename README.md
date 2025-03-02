@@ -1,4 +1,5 @@
-# Hey, I'm Bakhsinderdeep Singh! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center"><h1> Hey, I'm Bakhsinderdeep Singh!Nice to Meet You!</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+
 
 ###
 
@@ -12,10 +13,10 @@
 
 ###
 
-🤖 I am a detail-oriented software engineer with over 3 years of experience in designing and implementing scalable backend systems and microservices.
-💻 Passionate about backend development, I enjoy working with Java, JavaScript, and Python to build robust APIs and cloud-based solutions.
-🚀 I specialize in RESTful and GraphQL APIs, cloud technologies like AWS and Azure, and DevOps practices, ensuring high-performance and secure applications.
-🤝 I am always eager to collaborate on innovative projects, especially those involving microservices, cloud computing, and automation.
+🤖 I am a detail-oriented software engineer with over 3 years of experience in designing and implementing scalable backend systems and microservices.  
+💻 Passionate about backend development, I enjoy working with Java, JavaScript, and Python to build robust APIs and cloud-based solutions.  
+🚀 I specialize in RESTful and GraphQL APIs, cloud technologies like AWS and Azure, and DevOps practices, ensuring high-performance and secure applications.  
+🤝 I am always eager to collaborate on innovative projects, especially those involving microservices, cloud computing, and automation.  
 🎯 In my free time, I love exploring new tech stacks, optimizing systems, and learning about cutting-edge software development trends.
 
 ###
@@ -63,8 +64,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
-  
-  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+
 </div>
 
 ###
