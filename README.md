@@ -13,11 +13,11 @@
 
 ###
 
-🤖 I am a detail-oriented software engineer with over 3 years of experience in designing and implementing scalable backend systems and microservices.  
-💻 Passionate about backend development, I enjoy working with Java, JavaScript, and Python to build robust APIs and cloud-based solutions.  
-🚀 I specialize in RESTful and GraphQL APIs, cloud technologies like AWS and Azure, and DevOps practices, ensuring high-performance and secure applications.  
-🤝 I am always eager to collaborate on innovative projects, especially those involving microservices, cloud computing, and automation.  
-🎯 In my free time, I love exploring new tech stacks, optimizing systems, and learning about cutting-edge software development trends.
+🤖 Software Engineer with 3+ years of experience specializing in the architecture of scalable backend systems and microservice-oriented environments.
+💻 Expert in building high-concurrency applications and robust APIs using Java (Spring Boot), Python (Django/Flask), and Node.js.
+🚀 Specialized in RESTful/GraphQL design, Cloud Infrastructure (AWS/Azure), and DevOps automation to deliver high-performance, secure production systems.
+🤝 Open to collaboration on complex challenges involving event-driven architectures (Kafka), distributed search (Elasticsearch), and cloud-native engineering.
+🎯 Focused on continuous systems optimization, mastering distributed tracing, and exploring emerging trends in system reliability and backend performance.
 
 ###
 
