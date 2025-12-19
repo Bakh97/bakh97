@@ -14,9 +14,13 @@
 ###
 
 🤖 Software Engineer with 3+ years of experience specializing in the architecture of scalable backend systems and microservice-oriented environments.
+
 💻 Expert in building high-concurrency applications and robust APIs using Java (Spring Boot), Python (Django/Flask), and Node.js.
+
 🚀 Specialized in RESTful/GraphQL design, Cloud Infrastructure (AWS/Azure), and DevOps automation to deliver high-performance, secure production systems.
+
 🤝 Open to collaboration on complex challenges involving event-driven architectures (Kafka), distributed search (Elasticsearch), and cloud-native engineering.
+
 🎯 Focused on continuous systems optimization, mastering distributed tracing, and exploring emerging trends in system reliability and backend performance.
 
 ###
